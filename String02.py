@@ -6,4 +6,6 @@ def main():
     Returns:
         str: return answer.
     """
-    return 
+    a="CODEACADEMY"
+    return a
+print(main())
